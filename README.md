@@ -22,17 +22,17 @@
     <h1>기술 스택</h1>
   </div>
   ## 프로그래밍 언어
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
+  <p>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</p>
+  <p>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</p>
+  <p>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</p>
+  <p>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</p>
+  <p>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</p>
   
   ## 데이터 베이스
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)   
+  <p>![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)</p>
   
   ## 사용 도구
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)   
+  <p>![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</p>
   
     
   <div align="center">
@@ -58,12 +58,12 @@
     <!-- SNS -->
     <h1>SNS<h1>
   </div>  
-  <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>   
-  <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>   
+  <p><a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a></p>
+  <p><a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a></p>
   
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>   
+  <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>
 </p>
 
 <!-- Introduction
