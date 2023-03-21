@@ -65,7 +65,7 @@
   </div>
   
   <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-  <a href="https://holy-season.tistory.com/">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=9cf)</a>
+  <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/badge/Blogr-FF5722?style=for-the-badge&logo=blogr&logoColor=white)</a>
   
   
 <p align="center"> 
