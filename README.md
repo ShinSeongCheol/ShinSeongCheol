@@ -1,33 +1,44 @@
-<div align="center">
-  <!-- 목차 -->
-  # 목차
-  [소개](#소개)
-  [기술 스택](#기술-스택)
-  [경력](#경력)
-  [SNS 및 블로그](#SNS-및-블로그)
+  <div align="center">
+    <!-- 목차 -->
+    <h1>목차</h1>
+  </div>
 
-  <!-- 소개 -->
-  # 소개
+  [소개](#소개)   
+  [기술 스택](#기술-스택)   
+  [경력](#경력)   
+  [SNS 및 블로그](#SNS)   
+
+ <div align="center">
+   <!-- 소개 -->
+   <h1>소개<h1>
+ </div>
   ## 😊안녕하세요!😊
   포기하지 않는 백엔드 개발자 신성철입니다!
   제일 좋아하는 음료는 레몬에이드입니다.   
   컴퓨터 및 장비에 관심이 많고 게임을 좋아합니다.
-  
-  # 기술 스택
+    
+  <div align="center">
+    <!-- 기술 스택 -->
+    <h1>기술 스택</h1>
+  </div>
   ## 프로그래밍 언어
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
   
   ## 데이터 베이스
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)   
   
   ## 사용 도구
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)   
   
-  # 경력
+    
+  <div align="center">
+  <!-- 경력 -->
+  <h1>경력</h1>
+  </div>
   ## 안동대학교
   - 2017년 11월 29일 도난방지시스템 졸업작품 전시회
   ### NGN 연구실 (2021.03.02 ~ 2023.02.17)
@@ -42,15 +53,17 @@
   ### Djfamily 인턴
   - [2021년 7월 ~ 2021년 8월] ANUSEC 2021 전국 고등학생 사이버 보안경진대회 서버 관리 및 구축
   - [2022년 7월 ~ 2022년 8월] 청소년 아시아 육상경기대회(U20) 경기 규칙 알고리즘 분석 및 설계
+
+  <div align="center">
+    <!-- SNS -->
+    <h1>SNS<h1>
+  </div>  
+  <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>   
+  <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>   
   
-  # SNS 및 블로그
-  <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-  <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>
-  
-</div>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>   
 </p>
 
 <!-- Introduction
