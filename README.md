@@ -16,7 +16,7 @@
  </div>
  
   ## 😊안녕하세요!😊
-  포기하지 않는 백엔드 개발자 신성철입니다!
+  포기하지 않는 백엔드 개발자 신성철입니다!   
   제일 좋아하는 음료는 레몬에이드입니다.   
   컴퓨터 및 장비에 관심이 많고 게임을 좋아합니다.
     
@@ -64,11 +64,9 @@
     <h1>SNS</h1>
   </div>
   
-  <div align="center">
-    <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+    - <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
   
-    <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>
-  </div>
+    - <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>
 ---
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>
