@@ -10,7 +10,7 @@
 
  <div align="center">
    <!-- 소개 -->
-   <h1>소개<h1>
+   <h1>소개</h1>
  </div>
   ## 😊안녕하세요!😊
   포기하지 않는 백엔드 개발자 신성철입니다!
@@ -56,7 +56,7 @@
 
   <div align="center">
     <!-- SNS -->
-    <h1>SNS<h1>
+    <h1>SNS</h1>
   </div>  
   <p><a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a></p>
   <p><a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a></p>
