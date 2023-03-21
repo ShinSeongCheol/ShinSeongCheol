@@ -70,7 +70,7 @@
   <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blog&logoColor=white)</a>
   
   
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>
 </p>
 
