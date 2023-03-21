@@ -2,12 +2,14 @@
     <!-- 목차 -->
     <h1>목차</h1>
   </div>
-
-  [소개](#소개)   
-  [기술 스택](#기술-스택)   
-  [경력](#경력)   
-  [SNS 및 블로그](#SNS)   
-
+  
+  <div align="center">
+    [소개](#소개)   
+    [기술 스택](#기술-스택)   
+    [경력](#경력)   
+    [SNS 및 블로그](#SNS)   
+  </div>
+  
  <div align="center">
    <!-- 소개 -->
    <h1>소개</h1>
@@ -42,7 +44,7 @@
   <h1>경력</h1>
   </div>
   
-  ## 안동대학교
+  ## 안동대학교 (2017 3월 2일 ~ 2023년 2월 17일)
   - 2017년 11월 29일 도난방지시스템 졸업작품 전시회
   ### NGN 연구실 (2021.03.02 ~ 2023.02.17)
   - [2021년 7월] 창업 아이디어 경진대회 우수상(NGL Defender)
@@ -60,10 +62,13 @@
   <div align="center">
     <!-- SNS -->
     <h1>SNS</h1>
-  </div>  
+  </div>
   
-  <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-  <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>
+  <div align="center">
+    <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+  
+    <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>
+  </div>
 ---
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>
