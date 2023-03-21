@@ -12,6 +12,7 @@
    <!-- 소개 -->
    <h1>소개</h1>
  </div>
+ 
   ## 😊안녕하세요!😊
   포기하지 않는 백엔드 개발자 신성철입니다!
   제일 좋아하는 음료는 레몬에이드입니다.   
@@ -21,24 +22,26 @@
     <!-- 기술 스택 -->
     <h1>기술 스택</h1>
   </div>
+  
   ## 프로그래밍 언어
-  <p>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</p>
-  <p>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</p>
-  <p>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</p>
-  <p>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</p>
-  <p>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</p>
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
   ## 데이터 베이스
-  <p>![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)</p>
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   
   ## 사용 도구
-  <p>![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</p>
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
     
   <div align="center">
   <!-- 경력 -->
   <h1>경력</h1>
   </div>
+  
   ## 안동대학교
   - 2017년 11월 29일 도난방지시스템 졸업작품 전시회
   ### NGN 연구실 (2021.03.02 ~ 2023.02.17)
@@ -58,10 +61,10 @@
     <!-- SNS -->
     <h1>SNS</h1>
   </div>  
-  <p><a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a></p>
-  <p><a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a></p>
   
-
+  <a href="https://www.instagram.com/_seongcheol_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+  <a href="https://holy-season.tistory.com/">![Blog](https://img.shields.io/static/v1?label=message=Blog&color=9cf)</a>
+---
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/></a>
 </p>
