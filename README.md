@@ -1,4 +1,6 @@
 # SHIN SEONG CHEOL😎
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinSeongCheol%2Fhit-counter&count_bg=%234F7D8C&title_bg=%230B94BF&icon=reddit.svg&icon_color=%234F7D8C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <img src="https://github-readme-stats.vercel.app/api?username=ShinSeongCheol&theme=vue&show_icons=true"/> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cher3725)](https://solved.ac/cher3725/)
 
 **스프링 기반 백엔드 개발자가 되고 싶은 신성철입니다.**
